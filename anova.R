@@ -42,7 +42,7 @@
 # 7 - Química
 # É possivel automatizar essa codificação. Quem quiser saber como, entra em contato!
 
-#xDummy <- c(1, 2, 3, 4, 5, 6, 7) # Preencher com os dados de todos os respondentes, em ordem!
+xDummy <- c(1, 2, 3, 4, 5, 6, 7) # Preencher com os dados de todos os respondentes, em ordem!
 
 # Dados para teste.
 x <- xDummy <- c(3, 1, 2, 4, 5, 3, 1, 5, 5, 5, 7, 3, 4, 2)
